@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React.js, Typescript Next.jx**
+- 🌱 I’m currently learning **React.js, Typescript, Next.js**
 - 👨‍💻 All of my projects are available at [cv/project](https://likurg42.github.io/cv/#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
 - Ask me about **Vanilla JS, Responsive Web Design**
 - 📫 How to reach me **likurg42@gmail.com**
