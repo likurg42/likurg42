@@ -3,7 +3,11 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **React.js, Typescript, Next.js**
-- 👨‍💻 All of my projects are available at [cv/project](https://likurg42.github.io/cv/#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+- 👨‍💻 List of my personal projects
+  - [Online store](https://github.com/likurg42/online-store)
+  - [RSS Aggregator](https://github.com/likurg42/frontend-project-11)
+  - [Video games Music quiz](https://github.com/likurg42/vgm-quiz)
+  - [Diff generator](https://github.com/likurg42/frontend-project-lvl2)
 - Ask me about **Vanilla JS, Responsive Web Design**
 - 📫 How to reach me **likurg42@gmail.com**, **<a href="https://t.me/likurg42" target="blank">Telegram: @likurg42</a>**
 
