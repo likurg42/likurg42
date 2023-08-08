@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **React.js, Typescript, Next.js**
-- Ask me about **Vanilla JS, Responsive Web Design**
+- Ask me about **Typescript, React, Vanilla JS, Responsive Web Design**
 - 📫 How to reach me **likurg42@gmail.com**, **<a href="https://t.me/likurg42" target="blank">Telegram: @likurg42</a>**
 
 # 💻 Tech Stack:
