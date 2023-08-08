@@ -15,6 +15,3 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=likurg42&theme=radical&hide_border=false)<br/>
